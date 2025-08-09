@@ -88,6 +88,10 @@
     "taopian": {
       "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
       "name": "淘片资源"
+    },
+    "taopian": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "无尽资源"
     }
   }
 }
